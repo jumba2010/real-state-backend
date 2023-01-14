@@ -1,0 +1,15 @@
+#TODO LIST
+- Implementar as edições, inativações, activaões e visualizações de tudo que foi cadastrado;
+- Implementar a autenticação da Home Page (Web);
+- Implentar autenticação ao método que baixa os livros;
+- Adicionar  o menu, meus livros  (Para quem tem livros);
+- Implementar a parte de impressão do recibo de pagamento;
+- Rever a gestão de Perfis;
+- Melhorar o armazenamento de ficheiros
+- Implementar relaório de vendas (Resumido em forma de gráficos, evolutivos discriminados por meses e anos, e em  detalhado em forma);
+- Implementar relatório de visualizações de víveos por categoria;
+- Subistituir as pesquisas de videos e fazer paginações (colocar skip e limit dinámicos);
+- Fazer o Cacheamento  dos videos; 
+- Fazer o deploy no herukus (da versão de testes e testar);
+- Fazer o teste de integração e testes de carga;
+- Procurar servidores de hospedagem e pagar o domínio;
