@@ -1,6 +1,6 @@
 INTRODUCTION
 ------------
-Backend project for Children's Center Management. Allows you to sending SMS for the student's supervisors about theirs Students situation
+Backend project for Real State Backend.
 
 REQUIREMENTS
 ------------
